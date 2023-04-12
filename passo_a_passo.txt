@@ -1,0 +1,6 @@
+=> Criar pasta nova
+=> Abrir no terminal integrado
+=> Rodar npm init -y
+=> Criar o index.js
+=> Rodar npm install express
+=> Configurar o "start": "nodemon ./index.js"
